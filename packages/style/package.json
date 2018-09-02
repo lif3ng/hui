@@ -1,0 +1,9 @@
+{
+  "name": "@vue/style",
+  "version": "0.0.1",
+  "description": "style of hui",
+  "main": "index.js",
+  "scripts": {},
+  "author": "lif3ng",
+  "license": "MIT"
+}
