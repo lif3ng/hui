@@ -1,6 +1,6 @@
 {
   "name": "@vue/style",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "style of hui",
   "main": "index.js",
   "scripts": {
