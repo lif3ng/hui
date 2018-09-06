@@ -1,5 +1,5 @@
 {
-  "name": "@hui/style",
+  "name": "hui/style",
   "version": "0.0.2",
   "description": "style of hui",
   "main": "index.js",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "stylus": "^0.54.5"
   },
-  "gitHead": "30b205917df46e6ab3414d3a2ca8889ad6d5e42c"
+  "gitHead": "2d59caa2f152fba1c7f7aad27ded4750aff64bd5"
 }
