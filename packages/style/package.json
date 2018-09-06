@@ -1,6 +1,6 @@
 {
-  "name": "@vue/style",
-  "version": "0.0.8",
+  "name": "@hui/style",
+  "version": "0.0.1",
   "description": "style of hui",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "devDependencies": {
     "stylus": "^0.54.5"
   },
-  "gitHead": "ae2be50303122c66218a81e614f9f1892a66e998"
+  "gitHead": "30b205917df46e6ab3414d3a2ca8889ad6d5e42c"
 }
